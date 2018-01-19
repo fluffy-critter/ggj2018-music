@@ -61,5 +61,6 @@ Also, please keep me in mind if you ever have an indie game that you want music 
 * Twitter: [fluffy](http://twitter.com/fluffy)
 * Twitch: [fluffycritter](https://twitch.tv/fluffycritter)
 * Tumblr: [fluffy-critter](http://tumblr.beesbuzz.biz), [realfakesockpuppet](http://blog.sockpuppet.us/)
+* Soundcloud: [plaidfluff](http://soundcloud.com/plaidfluff)
 * Patreon: [fluffy](http://patreon.com/fluffy)
 * Email: fluffy at bees buzz dot biz
