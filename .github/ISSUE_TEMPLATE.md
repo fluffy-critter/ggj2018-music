@@ -4,10 +4,4 @@
 
 ## Request details
 
-Genre:
-
-Structural requirements: <!-- looping, interactive mix layers, etc. -->
-
-Expected length:
-
-Other requests:
+<!-- Please provide some basic information about your game, whether you need music and/or sound effects, any specific requests, etc. -->
