@@ -1,8 +1,8 @@
-== Game name ==
+## Game name
 
-== Team page ==
+## Team page
 
-== Request details ==
+## Request details
 
 Genre:
 

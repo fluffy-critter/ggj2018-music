@@ -1,5 +1,9 @@
 # fluffy @ [Global Game Jam](http://globalgamejam.org/) 2018
 
+## TL;DR
+
+If you want me to make music for your GGJ 2018 game, [open an issue on GitHub](https://github.com/fluffy-critter/ggj2018-music/issues/new).
+
 ## About me
 
 I used to be a software engineer (primarily graphics) working in interactive media, but I have quit my job to work on music, art, and indie game dev full-time.
