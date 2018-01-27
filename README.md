@@ -16,7 +16,7 @@ A lot of my content is also Creative Commons-licensed; for the most part I use [
 
 ## What I'm doing in GGJ 2018
 
-Just as I did for [GGJ 2016](http://metronomic.tk/2016/) and [GGJ 2017](http://metronomic.tk/2017/), I would like to make music and sfx for as many games as I am able to. All the music I am making for this jam is being posted to this github repo. You can also listen/download directly at https://ggj.metronomic.tk/
+Just as I did for GGJ 2015, [2016](http://metronomic.tk/2016/) and [2017](http://metronomic.tk/2017/), I would like to make music and/or sound for as many games as I am able to. All the music I am making for this jam is being posted to this github repo. You can also listen/download directly at https://ggj.metronomic.tk/
 
 If you would like to request me to make a work for your project, please [open an issue](https://github.com/fluffy-critter/ggj2018-music/issues/new) and tell me the following:
 
