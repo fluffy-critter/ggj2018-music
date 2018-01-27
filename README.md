@@ -29,7 +29,7 @@ As I start working on a project I will assign the issue to myself and hopefully 
 
 Specific requests will go into the `requests/` directory. I will also have a directory of generally-available stuff, `general/`, which is a free for all (stuff that I'm just making for the heck of it to fill in time between requests, and I'll probably dig up some old unused stuff that might be good for games as well).
 
-Also, if you would like to watch me work on music, I usually stream it on [my Twitch channel](http://twitch.tv/fluffycritter).
+Also, if you would like to watch me work on music, I usually stream it on [my Twitch channel](http://twitch.tv/fluffycritter), and my Twitch chat is a great way to interact with me while I work.
 
 ## What to expect
 
