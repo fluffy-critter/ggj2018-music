@@ -24,7 +24,7 @@ done | sort -nr | while read mtime wav ; do
     <td><a href="%s">%s</a></td>
     <td>%s</td>
     <td>%s</td>
-    <td><a href="%s.mp3">mp3</a></td>
+    <td><a class="mp3" href="%s.mp3">mp3</a></td>
     <td><a href="%s.ogg">ogg</a></td>
     <td><a href="%s.flac">flac</a></td>
     <td>%s</td>
